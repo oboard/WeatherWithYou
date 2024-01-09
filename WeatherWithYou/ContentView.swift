@@ -73,7 +73,7 @@ struct ContentView: View {
             Text("东莞").foregroundColor(foreground)
                     .font(.largeTitle)
                     .shadow(color: .black, radius: 8)
-            Text("2°")
+            Text("21°")
                 .font(.system(size: 70,weight: .light))
                 .foregroundColor(foreground)
                 .shadow(color: .black, radius: 8)
